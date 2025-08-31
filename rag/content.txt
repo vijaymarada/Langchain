@@ -1,0 +1,12 @@
+A blockchain is a distributed database or ledger shared across a computer network's nodes. They are best known for their crucial role in cryptocurrency systems, maintaining a secure and decentralized record of transactions, but they are not limited to cryptocurrency uses. Blockchains can be used to make data in any industry immutable—meaning it cannot  be altered.
+
+Since a block can’t be changed, the only trust needed is at the point where a user or program enters data. This reduces the need for trusted third parties, such as auditors or other humans, who add costs and can make mistakes.
+
+You might be familiar with spreadsheets or databases. A blockchain is somewhat similar because it is a database where information is entered and stored. The key difference between a traditional database or spreadsheet and a blockchain is how the data is structured and accessed.
+
+A blockchain consists of programs called scripts that conduct the tasks you usually would in a database: entering and accessing information, and saving and storing it somewhere. A blockchain is distributed, which means multiple copies are saved on many machines, and they must all match for it to be valid.
+
+The Bitcoin blockchain collects transaction information and enters it into a 4MB file called a block (different blockchains have different size blocks). Once the block is full, the block data is run through a cryptographic hash function, which creates a hexadecimal number called the block header hash.
+
+The hash is then entered into the following block header and encrypted with the other information in that block's header, creating a chain of blocks, hence the name “blockchain.”
+
